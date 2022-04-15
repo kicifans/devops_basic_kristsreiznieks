@@ -1,2 +1,2 @@
-# devops_basic_kristsreiznieks
-DevOps pamati iesācējiem
+# DevOps repozitorijs
+Krista Reiznieka DevOps repozitorijs pamati iesācējiem
