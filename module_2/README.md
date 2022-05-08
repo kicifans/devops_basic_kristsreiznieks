@@ -19,8 +19,8 @@ Izmantojot git komandu : "$ git log --since=2.weeks"
 
 19. Laura Pacilio nav veikusi commitu vakar
 
-*papilduzdevums*
-Redzu, ka uzrādās commit ar 16.06.2021, bet nesapratu kāpēc.
+*papilduzdevums*  
+Redzu, ka uzrādās commit ar 16.06.2021, bet nesapratu kāpēc.  
 Meklējot pēc autora visus commitus, šis commits arī uzrādās laikā starp 20.04 un 22.04 (ar datumu 16.04.).
   
 
